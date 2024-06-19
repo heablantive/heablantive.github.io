@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://heablantive.github.io/sitemap
+Sitemap: https://heablantive.github.io/app/sitemap
+Sitemap: https://heablantive.github.io/assets/sitemap
+Sitemap: https://heablantive.github.io/css/sitemap
+Sitemap: https://heablantive.github.io/includes/sitemap
+Sitemap: https://heablantive.github.io/item/sitemap
+Sitemap: https://heablantive.github.io/src/sitemap
